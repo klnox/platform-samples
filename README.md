@@ -1,5 +1,7 @@
 platform-samples
 ================
+## every project will be stored and documented in our public platform-samples repository.
+
 
 This is a public place for all sample projects related to the GitHub Platform.
 
